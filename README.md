@@ -1,2 +1,2 @@
-# OpenEDM
-EDM Project
+# UniEDM
+Universal EDM machine
